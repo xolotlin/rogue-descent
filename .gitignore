@@ -1,0 +1,6 @@
+build/
+
+# third_parties
+
+third_party/windows-0.15.0
+third_party/tracy_0.15.0
